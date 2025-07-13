@@ -38,7 +38,7 @@ C# WinForms ve SQLite ile geliştirilen küçük işletmeler için satış ve st
 
 ## 📌 Notlar
 
-- Uygulama şu an `private` repo’dadır. Yayına almak istersen `Settings > Change visibility` ile public yapabilirsin.
+
 - SQLite dosyası `bin\Debug` dizinine otomatik oluşturulur.
 
 ---
